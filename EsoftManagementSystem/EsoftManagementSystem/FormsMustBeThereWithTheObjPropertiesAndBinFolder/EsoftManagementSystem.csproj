@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A9723B6-EAE8-4077-962F-DA7AE9B94ECE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EsoftManagementSystem</RootNamespace>
+    <AssemblyName>EsoftManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net45\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net45\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add.Designer.cs">
+      <DependentUpon>Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddClubs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddClubs.Designer.cs">
+      <DependentUpon>AddClubs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCourses.Designer.cs">
+      <DependentUpon>AddCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStudents.Designer.cs">
+      <DependentUpon>AddStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTeacher.Designer.cs">
+      <DependentUpon>AddTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculator.Designer.cs">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Remove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remove.Designer.cs">
+      <DependentUpon>Remove.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveClubs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveClubs.Designer.cs">
+      <DependentUpon>RemoveClubs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveCourses.Designer.cs">
+      <DependentUpon>RemoveCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveStudent.Designer.cs">
+      <DependentUpon>RemoveStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveTeachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveTeachers.Designer.cs">
+      <DependentUpon>RemoveTeachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Scan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Scan.Designer.cs">
+      <DependentUpon>Scan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateClubs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateClubs.Designer.cs">
+      <DependentUpon>UpdateClubs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateCourse.Designer.cs">
+      <DependentUpon>UpdateCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateStudents.Designer.cs">
+      <DependentUpon>UpdateStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateTeachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateTeachers.Designer.cs">
+      <DependentUpon>UpdateTeachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View.Designer.cs">
+      <DependentUpon>View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewClubs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewClubs.Designer.cs">
+      <DependentUpon>ViewClubs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewCourses.Designer.cs">
+      <DependentUpon>ViewCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewStudents.Designer.cs">
+      <DependentUpon>ViewStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewTeachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewTeachers.Designer.cs">
+      <DependentUpon>ViewTeachers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add.resx">
+      <DependentUpon>Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddClubs.resx">
+      <DependentUpon>AddClubs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCourses.resx">
+      <DependentUpon>AddCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStudents.resx">
+      <DependentUpon>AddStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTeacher.resx">
+      <DependentUpon>AddTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculator.resx">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Remove.resx">
+      <DependentUpon>Remove.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveClubs.resx">
+      <DependentUpon>RemoveClubs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveCourses.resx">
+      <DependentUpon>RemoveCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveStudent.resx">
+      <DependentUpon>RemoveStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveTeachers.resx">
+      <DependentUpon>RemoveTeachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Scan.resx">
+      <DependentUpon>Scan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateClubs.resx">
+      <DependentUpon>UpdateClubs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCourse.resx">
+      <DependentUpon>UpdateCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateStudents.resx">
+      <DependentUpon>UpdateStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateTeachers.resx">
+      <DependentUpon>UpdateTeachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View.resx">
+      <DependentUpon>View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewClubs.resx">
+      <DependentUpon>ViewClubs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewCourses.resx">
+      <DependentUpon>ViewCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewStudents.resx">
+      <DependentUpon>ViewStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewTeachers.resx">
+      <DependentUpon>ViewTeachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61848.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-exit-logout-icon-2857-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-update-png-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view-512.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

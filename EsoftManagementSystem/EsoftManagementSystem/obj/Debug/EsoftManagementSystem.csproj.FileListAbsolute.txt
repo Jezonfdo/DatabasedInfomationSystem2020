@@ -1,0 +1,275 @@
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe.config
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csprojAssemblyReference.cache
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Login.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.MainMenu.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Properties.Resources.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.GenerateResource.cache
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Add.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddTeacher.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddCourses.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddStudents.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Remove.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveCourses.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveStudent.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveTeachers.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Update.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.View.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewCourses.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewStudents.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewTeachers.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Scan.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateCourse.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateStudents.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateTeachers.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.CopyComplete
+C:\Users\SharangaF\Desktop\Jezon Fernando\ESOFT Management\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.About.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe.config
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.pdb
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.dll
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.dll
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.xml
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.xml
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.pdb
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.xml
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.xml
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csprojAssemblyReference.cache
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.About.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Add.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddClubs.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddCourses.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddStudents.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddTeacher.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Login.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.MainMenu.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Properties.Resources.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Remove.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveClubs.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveCourses.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveStudent.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveTeachers.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Scan.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Update.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateClubs.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateCourse.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateStudents.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateTeachers.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.View.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewClubs.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewCourses.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewStudents.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewTeachers.resources
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.GenerateResource.cache
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.CopyComplete
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe.config
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csprojAssemblyReference.cache
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.About.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Add.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddCourses.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddStudents.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddTeacher.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Login.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.MainMenu.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Properties.Resources.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Remove.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveCourses.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveStudent.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveTeachers.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Scan.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Update.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateCourse.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateStudents.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateTeachers.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.View.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewCourses.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewStudents.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewTeachers.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.GenerateResource.cache
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.CopyComplete
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.pdb
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csprojAssemblyReference.cache
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.About.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Add.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddClubs.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddCourses.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddStudents.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddTeacher.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Login.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.MainMenu.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Properties.Resources.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Remove.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveClubs.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveCourses.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveStudent.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveTeachers.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Scan.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Update.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateClubs.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateCourse.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateStudents.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateTeachers.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.View.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewClubs.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewCourses.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewStudents.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewTeachers.resources
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.GenerateResource.cache
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.pdb
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe.config
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.pdb
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.dll
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.dll
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.xml
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.xml
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.pdb
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.xml
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.xml
+C:\Users\SharangaF\Desktop\GKC\001 Project Presentation\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.CopyComplete
+C:\Users\SharangaF\Desktop\EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe.config
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.xml
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csprojAssemblyReference.cache
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.About.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Add.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddCourses.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddStudents.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddTeacher.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Calculator.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Login.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.MainMenu.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Properties.Resources.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Remove.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveCourses.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveStudent.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveTeachers.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Scan.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Update.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateCourse.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateStudents.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateTeachers.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.View.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewClubs.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewCourses.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewStudents.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewTeachers.resources
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.GenerateResource.cache
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.CopyComplete
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.exe
+C:\Users\SharangaF\Desktop\Jezon Fernando\001 ESOFT Metro Campus\001 Diploma in Infomation Technology\001 Project Presentation\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.pdb
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe.config
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.exe
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\EsoftManagementSystem.pdb
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.dll
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.dll
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.xml
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.xml
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.pdb
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.xml
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\bin\Debug\zxing.presentation.xml
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csprojAssemblyReference.cache
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.About.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Add.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddClubs.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddCourses.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddStudents.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.AddTeacher.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Calculator.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Login.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.MainMenu.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Properties.Resources.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Remove.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveClubs.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveCourses.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveStudent.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.RemoveTeachers.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Scan.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.Update.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateClubs.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateCourse.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateStudents.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.UpdateTeachers.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.View.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewClubs.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewCourses.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewStudents.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.ViewTeachers.resources
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.GenerateResource.cache
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.csproj.CopyComplete
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.exe
+C:\Users\Jezon Fernando\Desktop\ESOFT\DiTECH\Final Project\001 EsoftManagementSystem\EsoftManagementSystem\obj\Debug\EsoftManagementSystem.pdb
